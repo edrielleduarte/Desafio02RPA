@@ -1,0 +1,11 @@
+﻿{
+  "Id": "m99CgsBjMkaBu9x8e9NOtQ",
+  "Reference": "d3ZztCNmc0CEIEmyETBRow/m99CgsBjMkaBu9x8e9NOtQ",
+  "Name": "RPAChrome",
+  "Type": "App",
+  "Created": "2022-05-14T17:33:10.5612495Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-14T17:33:10.5612495Z"
+}

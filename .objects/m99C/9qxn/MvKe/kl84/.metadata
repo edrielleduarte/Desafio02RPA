@@ -1,0 +1,13 @@
+﻿{
+  "Id": "kl84Yb3OAEyNEy04eL_9JA",
+  "Reference": "d3ZztCNmc0CEIEmyETBRow/kl84Yb3OAEyNEy04eL_9JA",
+  "ParentRef": "d3ZztCNmc0CEIEmyETBRow/MvKeRiXDZ02qdtvB16ekoQ",
+  "Name": "Start",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-05-14T17:34:19.5077295Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-14T17:34:19.5077295Z"
+}
